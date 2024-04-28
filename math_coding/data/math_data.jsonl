@@ -14,6 +14,7 @@
 {"question":"A rectangle has length = 10 cm and width = 5 cm. What is its area?", "answer":"50"}
 {"question":"A circle has radius = 7 cm. What is its circumference? (Use pi =3.14)", "answer":"43.96"}
 {"question":"A triangle has base =10 cm and height =5 cm. What is its area?", "answer":"25"}
+{"question":"A square has side =10 cm . What is its area?", "answer":"100"}
 {"question":"What is the slope of the line that passes through (2,3) and (4,7)?", "answer":"2"}
 {"question":"The distance between A and B is 2000km, A is moving towards B with speed 80km/hour, meanwhile B is moving towards A with speed 120km/hour, how many hours later A and B can meet?", "answer":"10"}
 {"question":"The lengths of the two perpendicular sides of a right triangle are 6cm and 8cm. What is the length of the hypotenuse?", "answer": "10"}
